@@ -8,7 +8,8 @@
 
 这是算法篇的学习
 
-1. [时间复杂度(上)](src/assets/lesson1.png)
+1. [时间复杂度(上)](src/assets/img/lesson1.png)  
+2. [时间复杂度(下)](src/assets/img/lesson2.png)  
 
 ## 我的个人博客  
 

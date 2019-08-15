@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="input"><button id="btn">添加</button>
+    <script>
+        class Node {
+            constructor(name,url,editable,addable){
+                  this.name = name;
+                  this.url = url;
+                  this.next = null;
+                  this.editable = editable;
+                  this.addable =addable;
+            }
+        }
+        let head  = new Node(null,null,null,null)
+        let start = new Node('开始','',false,true);
+        let submit = new Node('提交','',true,true);
+        let end = new Node('结束','',true,false);
+        let selectedNodeName = null;
+        head.next = start;
+        start.next = submit;
+        submit.next = end;
+        renderLinkList(head)
+        function renderLinkList(node){
+           let current = node;
+           while((current = current.next)!=null){
+               let div = document.createElement('div');
+               div.style.width = 100 +'px';
+               div.style.height = 100 + 'px';
+               div.innerHTML = current.name;
+               if(current.addable){
+                   div.addEventListener('click',function(){
+                       selectedNodeName = this.innerHTML;
+                       console.log(selectedNodeName)
+                   })
+               }
+               document.body.appendChild(div)
+           }
+        }
+        function clearLinklist(){
+            var div = document.querySelectorAll('div');
+            div.forEach(function(item){
+               document.body.removeChild(item)
+            })
+        }
+        btn.addEventListener('click',function(){
+             if(!input.value.trim()){alert('请输入内容') ;return }
+             if(!selectedNodeName){
+                 alert('请选择要插入的节点')
+             }
+             if(selectedNodeName){
+                 let nodeName = input.value;
+                 let temp = head ;
+                 let addedNode = new Node(nodeName,'',true,true)
+                 while((temp = temp.next)!=null){
+                     if(temp.name === selectedNodeName){
+                        addedNode.next = temp.next;
+                        temp.next = addedNode;
+                        break;
+                     }
+                 }
+                 clearLinklist()
+                 renderLinkList(head)
+             }
+        })
+    </script>
+</body>
+</html>

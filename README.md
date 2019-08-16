@@ -13,7 +13,7 @@
 3. [数组](src/assets/img/lesson3.png)  
 4. [链表(上)](src/assets/img/lesson4.png)  
 5. [链表(下)](src/assets/img/lesson5.png)  | [动态流程图js代码实现](src/app/lesson5/linkedlist.html)
-
+6. [栈](src/assets/img/lesson6.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 

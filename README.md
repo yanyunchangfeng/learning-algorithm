@@ -1,3 +1,4 @@
+[English](README.en.md) | 简体中文   
 <p align="center">
     <img width="300" src="src/assets/img/yanyunchangfeng.png">
 </p>
@@ -6,7 +7,7 @@
 你好，我是徐晓东，笔名[燕云长风](https://yanyunchangfeng.com)。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— 长风几万里，吹度玉门关。
 
-这是算法篇的学习
+## 算法学习
 
 1. [时间复杂度(上)](src/assets/img/lesson1.png)  
 2. [时间复杂度(下)](src/assets/img/lesson2.png)  
@@ -15,6 +16,8 @@
 5. [链表(下)](src/assets/img/lesson5.png)  | [动态流程图js代码实现](src/app/lesson5/linkedlist.html)
 6. [栈](src/assets/img/lesson6.png) 
 7. [队列](src/assets/img/lesson7.png) 
+8. [递归](src/assets/img/lesson8.png) 
+
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 

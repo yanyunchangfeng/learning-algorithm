@@ -1,6 +1,6 @@
 [English](README.en.md) | 简体中文   
 <p align="center">
-    <img width="300" src="src/assets/img/yanyunchangfeng.png">
+    <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/blog/yycf/yanyunchangfeng.png">
 </p>
 
 ##  介绍
@@ -19,6 +19,7 @@
 8. [递归](src/assets/img/lesson8.png) 
 9. [排序(上1)](src/assets/img/lesson9-prev.png) |  [排序(上2)](src/assets/img/lesson9-next.png) 
 10. [排序(下)](src/assets/img/lesson10.png) 
+11. [线性排序](src/assets/img/lesson11.png) 
 
 ## 我的个人博客  
 

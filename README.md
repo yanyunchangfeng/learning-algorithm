@@ -18,6 +18,7 @@
 7. [队列](src/assets/img/lesson7.png) 
 8. [递归](src/assets/img/lesson8.png) 
 9. [排序(上1)](src/assets/img/lesson9-prev.png) |  [排序(上2)](src/assets/img/lesson9-next.png) 
+10. [排序(下)](src/assets/img/lesson10.png) 
 
 ## 我的个人博客  
 

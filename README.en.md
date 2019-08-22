@@ -21,6 +21,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 10. [Sort-next](src/assets/img/lesson10.png) 
 11. [Linear Sort](src/assets/img/lesson11.png) 
 12. [Sort majorization](src/assets/img/lesson12.png) 
+13. [Binary Search (upper)](src/assets/img/lesson13.png) 
 
 ## Personal Blog  
 

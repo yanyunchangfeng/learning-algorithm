@@ -19,7 +19,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 8. [Recursion](src/assets/img/lesson8.png) 
 9. [Sort-prev1](src/assets/img/lesson9-prev.png) |[Sort-prev2](src/assets/img/lesson9-next.png) 
 10. [Sort-next](src/assets/img/lesson10.png) 
-12. [Linear Sort](src/assets/img/lesson11.png) 
+11. [Linear Sort](src/assets/img/lesson11.png) 
+12. [Sort majorization](src/assets/img/lesson12.png) 
 
 ## Personal Blog  
 

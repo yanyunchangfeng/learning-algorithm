@@ -20,6 +20,7 @@
 9. [排序(上1)](src/assets/img/lesson9-prev.png) |  [排序(上2)](src/assets/img/lesson9-next.png) 
 10. [排序(下)](src/assets/img/lesson10.png) 
 11. [线性排序](src/assets/img/lesson11.png) 
+12. [排序优化](src/assets/img/lesson12.png) 
 
 ## 我的个人博客  
 

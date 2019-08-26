@@ -23,7 +23,7 @@
 12. [排序优化](src/assets/img/lesson12.png) 
 13. [二分查找(上)](src/assets/img/lesson13.png) 
 14. [二分查找(下)](src/assets/img/lesson14.png) 
-
+15. [跳表](src/assets/img/lesson15.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 

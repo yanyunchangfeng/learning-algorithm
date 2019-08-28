@@ -27,6 +27,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 16. [Hash Table(upper)](src/assets/img/lesson16.png) 
 17. [Hash Table(middle)](src/assets/img/lesson17.png) 
 18. [Hash Table(lower)](src/assets/img/lesson18.png) 
+19. [Hash Algorithm (upper)](src/assets/img/lesson19.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 

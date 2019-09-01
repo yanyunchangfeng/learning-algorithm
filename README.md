@@ -28,6 +28,7 @@
 17. [散列表(中)](src/assets/img/lesson17.png) 
 18. [散列表(下)](src/assets/img/lesson18.png) 
 19. [哈希算法(上)](src/assets/img/lesson19.png) 
+20. [哈希算法(下)](src/assets/img/lesson20.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
